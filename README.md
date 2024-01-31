@@ -1,3 +1,8 @@
+contract_address = inj187txuxutm68naya9esnzkydtdrr9cjrlcluuc0
+
+
+
+
 # CosmWasm Starter Pack
 
 This is a template to build smart contracts in Rust to run inside a
